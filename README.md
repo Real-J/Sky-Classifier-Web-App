@@ -97,7 +97,7 @@ sky_classifier/
 
 ## 🔢 Example Results
 
-| ![Cloudy](https://via.placeholder.com/100) | Cloudy     |
+![Input Image](webresult.png)
 
 
 ---
