@@ -97,7 +97,7 @@ sky_classifier/
 
 ## 🔢 Example Results
 
-![Input Image](webresult.png)
+![Input Image](webresult.PNG)
 
 
 ---
